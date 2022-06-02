@@ -1,3 +1,56 @@
+Welcome to Devon Acosta's CIT Minor Portfolio!
+Below is an entry webpage of each CIT lab and project. Enjoy :)
+
+WEEK 1:
+Lab 1
+Purpose - Install/setup software tools onto personal computer (VS Code, VS Code Extensions, Git, & Postman), practice using terminal commands, practice using keyboard shortcuts, and create first Node.js server-side JavaScript file. 
+
+Project 1
+Purpose - Use system's CLI to create folders and in a tree-like structure, practice using break keyboard sequence, use VS Code terminal and Run & Debug through executing a JavaScript file using Node.js.
+
+WEEK 2:
+Lab 2
+Purpose - Use CLI commands for directory/file manipulation/git commands and setup git user credentials. 
+
+Project 2
+Purpose - Work with a git repository through my operating system's CLI, gain experience refactoring JavaScript code, and execute non-web server Node.js JavaScript code. 
+
+WEEK 3:
+Lab 3
+Purpose - Practice refactoring/destructing JavaScript code, practice converting normal functions into arrow function expressions, use for..in syntax with objects/use for..of syntax with arrays, creating a Node.js compatible code module using module.exports, importing a Node.js compatible code module using require, and code using the spread operator. 
+
+Project 3
+Purpose - Writing & executing non-web server Node.js JavaScript code using VSCode, refactoring using modern JavaScript syntax, gain experience using Fastify with the GET verb/routes/query parameters, and gain experience interpreting functional descriptions & specifications. 
+
+WEEK 4:
+Lab 4
+Purpose - Create initial Fastify Node.js web server, initialize as a Node.js project folder using Node Package Manager (npm), add Fastify to project using npm & test using Visual Studio Code (VSCode), add git repo/exclude node_modules folder from git/make commits, fix MIME error/test/commit, and add a second route with query parameters/test/commit. 
+
+Project 4
+Purpose - Similar objectives as Lab 4, but new ones are: Gain experience working with static data, writing/executing Node.js REST API server using VSCode, gain experience using Postman to test web server routes, and gain experience working with JSON.
+
+WEEK 5:
+Lab 5
+Purpose - Download/Install Postman, create a CIT 281 collection & folders, Create a Node.js and fastify server application with GET & respond with JSON, Use Postman to test server GET routes, Add POST handling to server application & respond with JSON, and Use Postman & POST request
+
+WEEK 6:
+Lab 6
+Purpose - Join GitHub & work through Introduction to GitHub course, Create lab file, Classes overview, Create & test Book class, Create & test Library, Add at least two more books to the library class, and Add ISBN & a delete book method. 
+
+Project 6
+Purpose - Creating/working classes with inheritance, creating/working with classes, debugging code, using a generic block of code to process data, writing/executing non-web server Node.js JavaScript code using VSCode, Practice using modern JavaScript syntax, and Gain more experience working with static data. 
+
+WEEK 7:
+Lab 7
+
+
+
+
+
+
+image: ![]
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devonacosta/devonacosta.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
