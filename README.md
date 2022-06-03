@@ -1,6 +1,7 @@
 # Welcome to Devon Acosta's CIT Minor Portfolio!
 
 ## Below is an entry webpage of each CIT lab and project. Enjoy :)
+![Coding Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 ### WEEK 1:
 ### Lab 1 - 
