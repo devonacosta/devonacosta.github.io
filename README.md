@@ -4,7 +4,7 @@
 ![Coding Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 ### WEEK 1:
-### Lab 1 [Lab 1](https://devonacosta.github.io/cit281-lab1/)
+### [Lab 1](https://devonacosta.github.io/cit281-lab1/)
 1. Install and setup your personal computer with the software tools required for this course
 2. Practice using software tools
 3. Practice terminal or shell commands
