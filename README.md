@@ -44,7 +44,7 @@
 
 - [Project 7](https://devonacosta/github.io/cit281-p7/)
 
-## Future Course in the CIT minor
+## Future Courses in the CIT minor
 - CIT 381
 - CIT 382
 - CIT 383
