@@ -7,109 +7,30 @@
 ### [Lab 1](https://devonacosta.github.io/cit281-lab1/)
 
 ### WEEK 2:
-### [Lab 2](https://devonacosta.github.io/cit281-lab2/) 
-- Use CLI commands for directory and file manipulation
-- Use CLI commands for git commands
-1. Setup git user credentials
-2. New git repository
-3. Initial JavaScript file
-4. Add file to git
-5. Ignoring files
-6. Using diff to see changes
-7. Using wildcards
-8. Cloning cloud repos locally
-9. Branch
-10. Repo files 
+### [Lab 2](https://devonacosta.github.io/cit281-lab2/)  
 
 ### [Project 1](https://devonacosta.github.io/cit281-p1/)
-1. Use the command line interface (CLI) of your operating system to create a number of folders
-2. List the folders in a tree-like structure
-3. Use the ping command, and practice using the break keyboard sequence
-4. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
-
 
 ### WEEK 3:
 ### [Lab 3](https://devonacosta/github.io/cit281-lab3/) 
-1. Practice refactoring JavaScript code to use more modern syntax
-2. Practice destructuring an object
-3. Practice converting normal functions into arrow function expressions
-4. Examine using for..in  syntax with objects
-5. Practice using for..of syntax with arrays
-6. Practice creating a Node.js compatible code module using module.exports
-7. Practice importing a Node.js compatible code module using require
-8. Examine code using the spread operator
 
 ### [Project 2](https://devonacosta/github.io/cit281-p2/)
-1. Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
-2. Refactor the JavaScript program from the previous project to practice using git and practice refactoring
-3. Use git via VSCode
-  - Create and use a .gitignore file
-  - Diff split screen
-
 
 ### WEEK 4:
 ### [Lab 4](https://devonacosta/github.io/cit281-lab4/) 
-1. Create initial Fastify Node.js web server
-2. Initialize as a Node.js project folder using Node Package Manager (npm)
-3. Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
-4. Add git repo, exclude node_modules folder from git, make commits
-5. Fix MIME error, test, and commit
-6. Add a second route with query parameters, test, and commit
-
 
 ### WEEK 5:
 ### [Lab 5](https://devonacosta/github.io/cit281-lab5/)
-1. Download and install Postman
-2. Create a CIT 281 collection and folders
-3. Create a Node.js and fastify server application with GET and respond with JSON
-4. Add array of students object
-5. Use Postman to test server GET routes
-6. Add POST handling to server application and respond with JSON
-7. Use Postman and POST request
 
 ### [Project 3](https://devonacosta/github.io/cit281-p3/)
-1. Gain experience interpreting functional descriptions and specifications to complete an assignment
-2. Gain experience breaking a project into manageable components
-3. Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-4. Practice creating and using code modules
-5. Practice refactoring using modern JavaScript syntax
-6. Gain experience writing and executing web server Node.js JavaScript code using VSCode
-7. Gain experience using Fastify with the GET verb, routes, and query parameters
-8. Gain experience loading a file and using as a web page
 
 ### WEEK 6:
 ### [Lab 6](https://devonacosta/github.io/cit281-lab6/)
-1. Join GitHub and work through Introduction to GitHub course
-2. Create lab file
-3. Classes overview
-4. Create and test Book class
-5. Create and test Library class
-6. Add at least two more books to the library
-7. Add ISBN and a delete book method
 
 ### [Project 4](https://devonacosta/github.io/cit281-p4/)
-1. Gain experience interpreting functional descriptions and specifications to complete an assignment
-2. Gain experience breaking a project into manageable components
-3. Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-4. Practice creating and using code modules
-5. Practice using modern JavaScript syntax
-6. Gain experience writing and executing Node.js REST API server using VSCode
-7. Gain experience using Fastify with the GET verb, routes, and route parameters
-8. Gain experience working with static data
-9. Gain experience testing code module without using a web server
-10. Gain experience using Postman to test web server routes
-11. Gain experience working with JSON
-12. Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs
-
 
 ### WEEK 7:
-### [Lab 7](https://devonacosta/github.io/cit281-lab7/)
-1. Create your own GitHub organization for the CIT Minor
-2. Create your first GitHub repository
-3. Clone your GitHub repository to your local system
-4. Create lab JavaScript file, and initialize folder as a Node.js folder
-5. Update and commit lab JavaScript file to practice with error handling
-6. Push your changes to GitHub 
+### [Lab 7](https://devonacosta/github.io/cit281-lab7/) 
 
 ### [Project 5](https://devonacosta/github.io/cit281-p5/)
 1. Gain experience working with classes, including class constructors and methods
