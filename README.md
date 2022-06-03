@@ -33,21 +33,9 @@
 ### [Lab 7](https://devonacosta/github.io/cit281-lab7/) 
 
 ### [Project 5](https://devonacosta/github.io/cit281-p5/)
-1. Gain experience working with classes, including class constructors and methods
-2. Gain experience interpreting existing code to design a new class, including constructor and methods
-3. Gain more experience working with code modules
-4. Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
-5. Gain more experience working with Array map() and forEach() methods
-6. Gain experience working with the concept of a gaming loop
-7. Gain more experience working with objects and arrays
 
 ### WEEK 8:
-### [Lab 8](https://devonacosta/github.io/cit281-lab8/) 
-1. Create lab file and initialize Node.js folder
-2. Install node-fetch package
-3. Add fastify starter code
-4. Add fastify and node-fetch require statements
-5. Fetch JSONPlaceholder data 
+### [Lab 8](https://devonacosta/github.io/cit281-lab8/)  
 
 ### [Project 6](https://devonacosta/github.io/cit281-p6/) 
 1. Gain experience creating and working classes with inheritance
