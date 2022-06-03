@@ -10,6 +10,7 @@
 3. Practice terminal or shell commands
 4. Practice keyboard shortcuts
 5. Create your first Node.js server-side JavaScript file
+![Coding Image](/documents/cit281/p1/lab-01-folders.png)
 
 ### WEEK 2:
 ### Lab 2 - 
