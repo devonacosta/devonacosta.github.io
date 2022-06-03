@@ -13,7 +13,7 @@
 
 
 ### WEEK 2:
-### Lab 2 - 
+### [Lab 2](https://devonacosta.github.io/cit281-lab2/) 
 - Use CLI commands for directory and file manipulation
 - Use CLI commands for git commands
 1. Setup git user credentials
@@ -27,7 +27,7 @@
 9. Branch
 10. Repo files 
 
-### Project 1 - 
+### [Project 1](https://devonacosta.github.io/cit281-p1/)
 1. Use the command line interface (CLI) of your operating system to create a number of folders
 2. List the folders in a tree-like structure
 3. Use the ping command, and practice using the break keyboard sequence
@@ -35,7 +35,7 @@
 
 
 ### WEEK 3:
-### Lab 3 - 
+### [Lab 3](https://devonacosta/github.io/cit281-lab3/) 
 1. Practice refactoring JavaScript code to use more modern syntax
 2. Practice destructuring an object
 3. Practice converting normal functions into arrow function expressions
@@ -45,7 +45,7 @@
 7. Practice importing a Node.js compatible code module using require
 8. Examine code using the spread operator
 
-### Project 2 - 
+### [Project 2](https://devonacosta/github.io/cit281-p2/)
 1. Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 2. Refactor the JavaScript program from the previous project to practice using git and practice refactoring
 3. Use git via VSCode
@@ -54,7 +54,7 @@
 
 
 ### WEEK 4:
-### Lab 4 - 
+### [Lab 4](https://devonacosta/github.io/cit281-lab4/) 
 1. Create initial Fastify Node.js web server
 2. Initialize as a Node.js project folder using Node Package Manager (npm)
 3. Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
@@ -64,7 +64,7 @@
 
 
 ### WEEK 5:
-### Lab 5 - 
+### [Lab 5](https://devonacosta/github.io/cit281-lab5/)
 1. Download and install Postman
 2. Create a CIT 281 collection and folders
 3. Create a Node.js and fastify server application with GET and respond with JSON
@@ -73,7 +73,7 @@
 6. Add POST handling to server application and respond with JSON
 7. Use Postman and POST request
 
-### Project 3 - 
+### [Project 3](https://devonacosta/github.io/cit281-p3/)
 1. Gain experience interpreting functional descriptions and specifications to complete an assignment
 2. Gain experience breaking a project into manageable components
 3. Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
@@ -84,7 +84,7 @@
 8. Gain experience loading a file and using as a web page
 
 ### WEEK 6:
-### Lab 6 - 
+### [Lab 6](https://devonacosta/github.io/cit281-lab6/)
 1. Join GitHub and work through Introduction to GitHub course
 2. Create lab file
 3. Classes overview
@@ -93,7 +93,7 @@
 6. Add at least two more books to the library
 7. Add ISBN and a delete book method
 
-### Project 4 - 
+### [Project 4](https://devonacosta/github.io/cit281-p4/)
 1. Gain experience interpreting functional descriptions and specifications to complete an assignment
 2. Gain experience breaking a project into manageable components
 3. Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
@@ -109,7 +109,7 @@
 
 
 ### WEEK 7:
-### Lab 7 - 
+### [Lab 7](https://devonacosta/github.io/cit281-lab7/)
 1. Create your own GitHub organization for the CIT Minor
 2. Create your first GitHub repository
 3. Clone your GitHub repository to your local system
@@ -117,7 +117,7 @@
 5. Update and commit lab JavaScript file to practice with error handling
 6. Push your changes to GitHub 
 
-### Project 5 - 
+### [Project 5](https://devonacosta/github.io/cit281-p5/)
 1. Gain experience working with classes, including class constructors and methods
 2. Gain experience interpreting existing code to design a new class, including constructor and methods
 3. Gain more experience working with code modules
@@ -127,14 +127,14 @@
 7. Gain more experience working with objects and arrays
 
 ### WEEK 8:
-### Lab 8 - 
+### [Lab 8](https://devonacosta/github.io/cit281-lab8/) 
 1. Create lab file and initialize Node.js folder
 2. Install node-fetch package
 3. Add fastify starter code
 4. Add fastify and node-fetch require statements
 5. Fetch JSONPlaceholder data 
 
-### Project 6 - 
+### [Project 6](https://devonacosta/github.io/cit281-p6/) 
 1. Gain experience creating and working classes with inheritance
 2. Gain more experience creating and working with classes
 3. Gain more experience debugging code
@@ -145,13 +145,13 @@
 9. Gain more experience working with static data 
 
 ### WEEK 9:
-### Lab 9 - 
+### [Lab 9](https://devonacosta/github.io/cit281-lab9/)
 1. Create Learning Lab course/repo within your GitHub account
 2. Practice exiting and returning to the course from course repo
 3. Work through course
 4. Download completed course repo as deliverable 
 
-### Project 7 - 
+### [Project 7](https://devonacosta/github.io/cit281-p7/)
 1. Creating either an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio.
 2. Creating repos for each of the labs and projects for the CIT 281 class
 3. Creating a GitHub Page for each of the labs and projects that provides a brief description of the lab or project, and a screen capture
