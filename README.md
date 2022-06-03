@@ -1,9 +1,14 @@
-Welcome to Devon Acosta's CIT Minor Portfolio!
-Below is an entry webpage of each CIT lab and project. Enjoy :)
+# Welcome to Devon Acosta's CIT Minor Portfolio!
+
+## Below is an entry webpage of each CIT lab and project. Enjoy :)
 
 WEEK 1:
-Lab 1
-Purpose - Install/setup software tools onto personal computer (VS Code, VS Code Extensions, Git, & Postman), practice using terminal commands, practice using keyboard shortcuts, and create first Node.js server-side JavaScript file. 
+Lab 1 - 
+Part 1: Install and setup your personal computer with the software tools required for this course
+Part 2: Practice using software tools
+Part 3: Practice terminal or shell commands
+Part 4: Practice keyboard shortcuts
+Part 5: Create your first Node.js server-side JavaScript file
 
 
 WEEK 2:
